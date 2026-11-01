@@ -25,9 +25,9 @@ public class SCB {
                 case 4:
                     system.DisplayQueues(); break;
                 case 5:
-                    System.out.println("================================");
+                    System.out.println("\n==============================");
                     System.out.println("\t \"TERMINATED PROCESS\"");
-                    System.out.println("================================");
+                    System.out.println("==============================");
                     return;
                 default:
                     System.out.println("\n=== \"INVALID CHOICE\" ===");
